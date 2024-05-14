@@ -1,0 +1,2 @@
+# TIL
+Record governs memory
