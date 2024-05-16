@@ -1,0 +1,55 @@
+{
+  "settings": {
+    "migrated": 5,
+    "iconPacksPath": ".obsidian/icons",
+    "fontSize": 16,
+    "emojiStyle": "native",
+    "iconColor": null,
+    "recentlyUsedIcons": [
+      "FabEllo",
+      "FabBuromobelexperte",
+      "FabUbuntu",
+      "☑",
+      "FabNodeJs"
+    ],
+    "recentlyUsedIconsSize": 5,
+    "rules": [],
+    "extraMargin": {
+      "top": 0,
+      "right": 4,
+      "bottom": 0,
+      "left": 0
+    },
+    "iconInTabsEnabled": false,
+    "iconInTitleEnabled": false,
+    "iconInTitlePosition": "above",
+    "iconInFrontmatterEnabled": false,
+    "iconInFrontmatterFieldName": "icon",
+    "iconColorInFrontmatterFieldName": "iconColor",
+    "iconsBackgroundCheckEnabled": false,
+    "iconsInNotesEnabled": true,
+    "iconsInLinksEnabled": true,
+    "iconIdentifier": ":",
+    "debugMode": false
+  },
+  "Docker": {
+    "iconName": "FabDocker",
+    "iconColor": "#3089e8"
+  },
+  "Git": {
+    "iconName": "FabGithub",
+    "iconColor": "#a82db9"
+  },
+  "Node": {
+    "iconName": "FabNodeJs",
+    "iconColor": "#35b332"
+  },
+  "Ubuntu": {
+    "iconName": "FabUbuntu",
+    "iconColor": "#da5710"
+  },
+  "0Todo": {
+    "iconName": "FabEllo",
+    "iconColor": "#738391"
+  }
+}
