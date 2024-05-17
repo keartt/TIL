@@ -2,6 +2,8 @@
 - [ ] Docker Summary Concepts
 - [ ] Docker &  Apache Load Ballancing
 - [ ] Docker nodemon process
+- [ ] One Directory Two Postgresql
+	- [ ] DB LoadBalancing (이중화)
 
 ## Other
 - [ ] JS or Spring excuting Putty or Local Program
@@ -14,3 +16,4 @@
 - [ ] Make Plan 
 	- [ ] Certification 
 	- [ ] Basic Spring & Java 
+

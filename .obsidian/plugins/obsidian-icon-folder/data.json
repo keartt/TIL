@@ -6,7 +6,7 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
-      "FabEtsy",
+      "🐨",
       "FabEllo",
       "FabBuromobelexperte",
       "FabUbuntu",
@@ -48,12 +48,5 @@
     "iconName": "FabUbuntu",
     "iconColor": "#da5710"
   },
-  "0Todo": {
-    "iconName": "FabEllo",
-    "iconColor": "#738391"
-  },
-  "정처기": {
-    "iconName": "FabEtsy",
-    "iconColor": "#46a13a"
-  }
+  "0Todo": "🐨"
 }
