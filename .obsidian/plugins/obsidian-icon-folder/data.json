@@ -6,11 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "4️⃣",
+      "SiReaddotcv",
+      "SiPostgresql",
       "🐨",
-      "FabEllo",
-      "FabBuromobelexperte",
-      "FabUbuntu",
-      "☑"
+      "FabEllo"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -48,5 +48,14 @@
     "iconName": "FabUbuntu",
     "iconColor": "#da5710"
   },
-  "0Todo": "🐨"
+  "0Todo": "🐨",
+  "Postgresql": {
+    "iconName": "SiPostgresql",
+    "iconColor": "#1c97e9"
+  },
+  "정처기": {
+    "iconName": "SiReaddotcv",
+    "iconColor": "#de1212"
+  },
+  "All4Land": "4️⃣"
 }

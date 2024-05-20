@@ -13,8 +13,20 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "정처기/test Language.md",
-                "mode": "source",
+                "file": "All4Land/scdtw.md",
+                "mode": "preview",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "ac8d59029e88fd7a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Postgresql/find Trigger & FK constraint.md",
+                "mode": "preview",
                 "source": true
               }
             }
@@ -25,14 +37,25 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Docker/y 도커 이미지 파일로 저장.md",
+                "file": "README.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "72f5a77d547f899d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Ubuntu/파일위치 찾기.md",
                 "mode": "source",
                 "source": true
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -117,7 +140,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Docker/y 도커 이미지 파일로 저장.md",
+                "file": "All4Land/scdtw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -134,7 +157,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Docker/y 도커 이미지 파일로 저장.md",
+                "file": "All4Land/scdtw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +169,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Docker/y 도커 이미지 파일로 저장.md"
+                "file": "All4Land/scdtw.md"
               }
             }
           }
@@ -183,23 +206,28 @@
       "table-editor-obsidian:Advanced Tables Toolbar": true
     }
   },
-  "active": "79d690f7c92db9ca",
+  "active": "7b77f1ec5bf0bbc8",
   "lastOpenFiles": [
+    "All4Land",
+    "Node/Forever.md",
+    "Ubuntu/파일위치 찾기.md",
+    "All4Land/scdtw.md",
+    "README.md",
+    "Docker/y 도커 이미지 파일로 저장.md",
+    "scdtw dev serever.md",
+    "0Todo/To do.md",
+    "Postgresql/find Trigger & FK constraint.md",
+    "Ubuntu/우분투 포트 죽이기.md",
+    "Postgresql",
     "정처기/test Language.md",
     "Docker/0 도커란.md",
     "0Todo/2024-05-16.md",
-    "README.md",
-    "scdtw.md",
-    "Ubuntu/우분투 포트 죽이기.md",
     "우분투.md",
     "우분투_포트_죽이기.md",
-    "0Todo/To do.md",
-    "Docker/y 도커 이미지 파일로 저장.md",
     "Docker/2 도커 명령어.md",
     "Docker/1 우분투 도커설치.md",
     "정처기",
     "Docker/3 도커 톰캣 war.md",
-    "Node/Forever.md",
     "().md",
     "Docker/3 도커 이미지 파일로 저장.md",
     "Ubuntu",
@@ -218,13 +246,8 @@
     "Docker/img",
     "Docker",
     "test.md",
-    "Obsidian/Todo/2024-05-16.md",
-    "Obsidian/Todo/2024-05-13.md",
-    "Obsidian/Todo",
-    "Obsidian/Git/Git Command.md",
     "Obsidian/Docker/img/Pasted image 20240516162502.png",
     "Obsidian/Docker/img/Pasted image 20240516161817.png",
-    "Obsidian/Docker/t Tomcat in Docker (Docker File).md",
     "Pasted image 20240516162426.png",
     "무제 파일.canvas",
     "무제 파일 1.canvas",
