@@ -1,4 +1,6 @@
 {
   "spellcheck": false,
-  "livePreview": false
+  "livePreview": false,
+  "alwaysUpdateLinks": true,
+  "attachmentFolderPath": "zAttachFile"
 }

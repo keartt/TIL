@@ -6,11 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "📁",
+      "SiLinux",
       "4️⃣",
       "SiReaddotcv",
-      "SiPostgresql",
-      "🐨",
-      "FabEllo"
+      "SiPostgresql"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -44,10 +44,6 @@
     "iconName": "FabNodeJs",
     "iconColor": "#35b332"
   },
-  "Ubuntu": {
-    "iconName": "FabUbuntu",
-    "iconColor": "#da5710"
-  },
   "0Todo": "🐨",
   "Postgresql": {
     "iconName": "SiPostgresql",
@@ -57,5 +53,14 @@
     "iconName": "SiReaddotcv",
     "iconColor": "#de1212"
   },
-  "All4Land": "4️⃣"
+  "All4Land": "4️⃣",
+  "LInux": {
+    "iconName": "SiLinux",
+    "iconColor": "#ffffff"
+  },
+  "LInux/Ubuntu": {
+    "iconName": "FabUbuntu",
+    "iconColor": "#da5710"
+  },
+  "zAttachFile": "📁"
 }
