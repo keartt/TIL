@@ -6,11 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "SiEclipseide",
       "📁",
       "SiLinux",
       "4️⃣",
-      "SiReaddotcv",
-      "SiPostgresql"
+      "SiReaddotcv"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -62,5 +62,9 @@
     "iconName": "FabUbuntu",
     "iconColor": "#da5710"
   },
-  "zAttachFile": "📁"
+  "0Todo/file": "📁",
+  "Egov": {
+    "iconName": "SiEclipseide",
+    "iconColor": "#7f058f"
+  }
 }

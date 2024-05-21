@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0Todo/To do.md",
-                "mode": "preview",
+                "file": "정리중.md",
+                "mode": "source",
                 "source": true
               }
             }
@@ -104,7 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "0Todo/To do.md",
+                "file": "정리중.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,7 +121,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "0Todo/To do.md",
+                "file": "정리중.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "0Todo/To do.md"
+                "file": "정리중.md"
               }
             }
           }
@@ -171,26 +171,33 @@
   },
   "active": "9bef10dc08af0d24",
   "lastOpenFiles": [
-    "0Todo/2024-05-16.md",
-    "정처기/test Language.md",
-    "Docker/2 도커 명령어.md",
-    "Docker/0 도커란.md",
-    "Git/깃 명령어.md",
     "LInux/파일위치 찾기.md",
-    "LInux/Apache-LoadBalancing.md",
-    "LInux/was 파일공유, 디렉토리 동기화.md",
-    "LInux/Ubuntu/우분투 포트 죽이기.md",
-    "Node/Forever.md",
+    "정리중.md",
     "Postgresql/find Trigger & FK constraint.md",
+    "Egov/스웨거적용.md",
+    "Egov/Pretty SQL Console.md",
     "끄적끄적.md",
     "README.md",
-    "정리중.md",
+    "Egov",
+    "무제 파일.md",
+    "Docker/0 도커란.md",
+    "Node/Forever.md",
+    "Git/깃 명령어.md",
+    "Docker/y 도커 이미지 파일로 저장.md",
+    "LInux/Apache-LoadBalancing.md",
+    "LInux/was 파일공유, 디렉토리 동기화.md",
+    "Docker/2 도커 명령어.md",
+    "Docker/1 우분투 도커설치.md",
+    "0Todo/To do.md",
+    "0Todo/2024-05-16.md",
+    "정처기/test Language.md",
+    "LInux/Ubuntu/우분투 포트 죽이기.md",
     "LInux/Ubuntu",
     "LInux",
-    "zAttachFile/Pasted image 20240521161333.png",
-    "zAttachFile/Pasted image 20240516162502.png",
-    "zAttachFile/Pasted image 20240516161817.png",
-    "zAttachFile",
+    "0Todo/file/Pasted image 20240521161333.png",
+    "0Todo/file/Pasted image 20240516162502.png",
+    "0Todo/file/Pasted image 20240516161817.png",
+    "0Todo/file",
     "Ubuntu/파일위치 찾기.md",
     "Ubuntu/우분투 포트 죽이기.md",
     "Docker/img/Pasted image 20240516162502.png",
@@ -198,18 +205,12 @@
     "Ubuntu",
     "Docker/img",
     "Postgresql",
-    "0Todo/To do.md",
     "0Todo/2024-05-17.md",
     "무제 폴더 1",
-    "무제 폴더",
     "정처기",
-    "Docker/1 우분투 도커설치.md",
     "Docker/3 도커 톰캣 war.md",
     "0Todo/2024-05-13.md",
-    "Docker/y 도커 이미지 파일로 저장.md",
     "우분투_포트_죽이기.md",
-    "우분투.md",
-    "().md",
     "Node",
     "Obsidian/Docker/img/Pasted image 20240516162502.png",
     "Obsidian/Docker/img/Pasted image 20240516161817.png",
