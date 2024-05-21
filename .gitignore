@@ -1,5 +1,6 @@
 **/All4Land/
-
+.DS_Store
+.obsidian/workspace.json
 # Logs
 logs
 *.log
