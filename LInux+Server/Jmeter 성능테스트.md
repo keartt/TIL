@@ -1,6 +1,11 @@
 
 ## 설치 (윈도우, 리눅스)
 
+```sh
+wget https://dlcdn.apache.org//jmeter/binaries/apache-jmeter-5.6.3.tgz
+tar -xvzf apache-jmeter-5.6.3.tgz
+```
+> jdk 8 이상 필수
 ## 테스트 계획 작성
 GUI 환경에서 편하게 테스트 계획 작성
 - 쓰레드 그룹
@@ -38,3 +43,12 @@ cd ${zmeter_dir}/bin
 
 실행 후 나온 결과를 가지고 GUI 보고서에서 보면 나옴 끄읏
 
+```js
+var a = 'aa@bb';
+var b = 'b'
+console.log(a,b)
+
+var [a, b] = a.split('@');
+
+console.log(a,b)
+```

@@ -6,11 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
-      "FabYahoo",
-      "SiScopus",
-      "SiSpringboot",
-      "SiEclipseide",
-      "📁"
+      "SiWindowsterminal",
+      "🔶",
+      "💸",
+      "🏢",
+      "FabYahoo"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -44,7 +44,7 @@
     "iconName": "FabNodeJs",
     "iconColor": "#35b332"
   },
-  "0Todo": "🐨",
+  "0Todo": "🔶",
   "Postgresql": {
     "iconName": "SiPostgresql",
     "iconColor": "#1c97e9"
@@ -53,24 +53,30 @@
     "iconName": "SiReaddotcv",
     "iconColor": "#de1212"
   },
-  "All4Land": "4️⃣",
-  "LInux": {
-    "iconName": "SiLinux",
-    "iconColor": "#ffffff"
-  },
-  "LInux/Ubuntu": {
-    "iconName": "FabUbuntu",
-    "iconColor": "#da5710"
-  },
-  "0Todo/file": "📁",
   "Egov": {
     "iconName": "SiEclipseide",
-    "iconColor": "#310f8f"
+    "iconColor": "#dfda34"
   },
   "SpringBoot": {
     "iconName": "SiSpringboot",
-    "iconColor": "#9cf362"
+    "iconColor": "#42ca2f"
   },
-  "All4Land/속초": "SiScopus",
-  "All4Land/용인": "FabYahoo"
+  "00회사/속초": {
+    "iconName": "SiScopus",
+    "iconColor": "#f39135"
+  },
+  "00회사/용인": {
+    "iconName": "FabYahoo",
+    "iconColor": "#0dd0f8"
+  },
+  "00회사": "💸",
+  "0Todo/file": "📁",
+  "LInux+Server": {
+    "iconName": "SiWindowsterminal",
+    "iconColor": "#ffffff"
+  },
+  "LInux+Server/Ubuntu": {
+    "iconName": "FabUbuntu",
+    "iconColor": "#da5710"
+  }
 }
