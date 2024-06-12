@@ -6,11 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "SiNewbalance",
+      "SiApache",
       "FabJava",
       "SiWindowsterminal",
-      "🔶",
-      "💸",
-      "🏢"
+      "🔶"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -82,5 +82,13 @@
   "Java": {
     "iconName": "FabJava",
     "iconColor": "#fe6716"
+  },
+  "LInux+Server/로드밸런싱": {
+    "iconName": "SiNewbalance",
+    "iconColor": "#21c43c"
+  },
+  "LInux+Server/로드밸런싱/아파치": {
+    "iconName": "SiApache",
+    "iconColor": "#ff0000"
   }
 }
