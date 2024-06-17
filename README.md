@@ -1,10 +1,27 @@
-# TIL
-> Record governs memory!
-> 공부내용 메모 정리 레포지토리
+# TIL (Today I Learn) - to Write
 
-## 작성이유
-- 블로그 관리
-- 개인 공부 개념 정리
-- git 연습
-- markdown 공부
-- obsidian 활용
+> Record governs memory!
+
+## What I Study?
+#### Algorithm  CodingTest
+```
+├── CodingTest
+	├── BAEKJOON
+	└── Programmers
+```
+
+#### Organize Tech Stack
+```
+└── Tech Stack
+    ├── Docker
+    ├── Egov
+    ├── Git
+    ├── Java
+    ├── LInux+Server
+    ├── Node
+    ├── Postgresql
+    └── SpringBoot
+```
+
+
+> by obsidian
