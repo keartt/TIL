@@ -1,4 +1,4 @@
-package CodingTest.BAEKJOON.Bronze.Bronze1264;
+package CodingTest.BAEKJOON.Bronze.B4_1264;
 
 import java.util.Scanner;
 

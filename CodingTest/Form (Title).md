@@ -1,9 +1,18 @@
-## Question
-> 문제 설명
-> https://www.acmicpc.net/problem/{q-num}
+# 문제제목
+> [티어 ] 번호
 
+## Question
+- 여러 input 값을 받고, 그 값을 기존 값과 비교하여 연산 후 출
+- 
+### Tag
+`구현`
 
 ## Answer
 
 > [!tip]
 > 팁, 중요한 점
+
+### result
+| 메모리(kb) | 시간  (ms) |
+|---------|----------|
+| 14228   | 120       |
