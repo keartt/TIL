@@ -25,5 +25,4 @@ String str;
 while ((str = br.readLine()) != null){
     StringTokenizer st = new StringTokenizer(str);
 }
-
 ```

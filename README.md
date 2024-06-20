@@ -1,6 +1,6 @@
 # TIL (Today I Learn) - to Write
 
-> Record governs memory!
+> ### Record governs memory!
 >> ##### my blogs
 >> [<img src="https://tistory1.daumcdn.net/tistory/4698271/attach/a1f0d239d5a540268a566d3a174c81b3" width="20" height="20" style="vertical-align: middle;"/> Tistory](https://keartt.tistory.com/)
 >> [ <img src="https://velog.velcdn.com/images/ttraek/profile/09222a6f-c1ce-4eeb-b02a-5865ff5136db/image.png" width="20" height="20" style="vertical-align: middle;"/> Velog](https://velog.io/@ttraek/posts)
