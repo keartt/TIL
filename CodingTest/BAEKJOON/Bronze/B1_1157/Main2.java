@@ -11,11 +11,11 @@ public class Main2 {
         StringTokenizer st = new StringTokenizer(br.readLine());
         String text = st.nextToken().toUpperCase();
         int[] arr = new int[26];
-        int max = -1;
+        int max = 0;
         char str = '?';
 
         for (int i = 0; i < text.length(); i++) {
-            int count = arr[text.charAt(i) - 65]++;
+            int count = ++arr[text.charAt(i) - 65];
             if (max < count) {
                 max = count;
                 str = text.charAt(i);

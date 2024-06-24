@@ -20,9 +20,9 @@ public class Main {
     static boolean isPrime(int num) {
         if (num < 2) return false;
 //        제곱근으로 구해도 되지만, for문 한번마다 제곱근 구하므로 비추
-//        double sqrt = Math.sqrt(num);
-//        for (int i = 2; i <= sqrt; i++) {
-        for (int i = 2; i*i <= num; i++){
+//        for (int i = 2; i*i <= num; i++){
+        double sqrt = Math.sqrt(num);
+        for (int i = 2; i <= sqrt; i++) {
             if (num % i == 0) {
                 return false;
             }
