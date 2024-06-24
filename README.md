@@ -7,8 +7,7 @@
 ## <img src="https://d2gd6pc034wcta.cloudfront.net/tier/6.svg" width="20" height="20" style="vertical-align: middle;"/>  BAEKJOON
 
 #### [백준 프로필](https://solved.ac/profile/shalpha)
-
-#### [알고리즘 개념 정리](https://github.com/keartt/TIL/tree/main/CodingTest/BAEKJOON)
+#### [알고리즘 개념 정리](https://github.com/keartt/TIL/tree/main/CodingTest/Algorithm)
 #### [문제풀이 및 정리](https://github.com/keartt/TIL/tree/main/CodingTest/BAEKJOON)
 
 [//]: # (```)

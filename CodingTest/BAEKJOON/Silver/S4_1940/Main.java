@@ -32,7 +32,7 @@ public class Main {
                 end--;
             }else if (sum < M){
                 start++;
-            }else if (sum > M){
+            }else { //if (sum > M)
                 end--;
             }
         }
