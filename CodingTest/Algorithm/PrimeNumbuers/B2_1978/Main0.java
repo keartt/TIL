@@ -1,4 +1,4 @@
-package CodingTest.BAEKJOON.Bronze.B2_1978;
+package CodingTest.Algorithm.PrimeNumbuers.B2_1978;
 
 import java.io.BufferedReader;
 import java.io.IOException;

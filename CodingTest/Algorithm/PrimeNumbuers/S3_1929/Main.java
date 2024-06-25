@@ -1,4 +1,4 @@
-package CodingTest.BAEKJOON.Silver.S3_1929;
+package CodingTest.Algorithm.PrimeNumbuers.S3_1929;
 
 import java.io.BufferedReader;
 import java.io.IOException;
