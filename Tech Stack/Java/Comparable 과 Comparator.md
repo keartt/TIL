@@ -138,7 +138,7 @@ List , 배열의 sort 정렬시 두번째 매개변수로 Comparator 익명함�
 원하는 방식으로 정렬을 진행할 수 있다.
 
 > 관련문제
-> <img src="https://d2gd6pc034wcta.cloudfront.net/tier/6.svg" width="20" height="20" style="vertical-align: middle;"/> [[1181] 주몽](https://www.acmicpc.net/problem/1181)
+> <img src="https://d2gd6pc034wcta.cloudfront.net/tier/6.svg" width="20" height="20" style="vertical-align: middle;"/> [[10814] 나이순 정렬](https://www.acmicpc.net/problem/10814)
 
 
 > [참고출처](https://st-lab.tistory.com/243)
