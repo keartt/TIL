@@ -1,4 +1,4 @@
-package CodingTest.BAEKJOON.Silver.S5_1676;
+package CodingTest.Algorithm.NumberTheory.PrimeFactorization.S5_1676;
 
 import java.io.*;
 import java.math.BigInteger;
