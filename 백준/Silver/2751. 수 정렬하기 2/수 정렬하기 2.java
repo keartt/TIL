@@ -1,19 +1,15 @@
 import java.io.*;
-import java.util.ArrayList;
-import java.util.Collections;
-
 public class Main {
     public static void main(String[] args) throws IOException {
         BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
         BufferedWriter bw = new BufferedWriter(new OutputStreamWriter(System.out));
         int N = Integer.parseInt(br.readLine());
-        ArrayList<Integer> arrayList = new ArrayList<>();
+        boolean[] num = new boolean[2000001];
         for (int i = 0; i < N; i++) {
-            arrayList.add(Integer.parseInt(br.readLine()));
+            num[Integer.parseInt(br.readLine()) + 1000000] = true;
         }
-        Collections.sort(arrayList);
-        for (int i : arrayList) {
-            bw.write(i + "\n");
+        for (int i = 0; i < num.length; i++) {
+            if (num[i]) bw.write((i - 1000000) + "\n");
         }
         bw.flush();
         bw.close();
