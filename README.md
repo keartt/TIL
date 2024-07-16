@@ -1,21 +1,18 @@
 # TIL (Today I Learn) - to Write
 > [!IMPORTANT]
 > ### 정리하고 기억하기
+>
+<a href="https://keartt.tistory.com/" target="_empty">
+        <img src="https://img.shields.io/badge/myblog-c059ae?style=flat-square&logo=Tistory&logoColor=white"/>
+    </a>
+<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fkeartt&count_bg=%23C2B8B8&title_bg=%23D62DD7&icon=&icon_color=%23E7E7E7&title=Hi+there&edge_flat=false"/></a>
 
-<br>
 
-## <img src="https://d2gd6pc034wcta.cloudfront.net/tier/6.svg" width="20" height="20" style="vertical-align: middle;"/>  BAEKJOON
+## <img src="https://d2gd6pc034wcta.cloudfront.net/tier/9.svg" width="20" height="20" style="vertical-align: middle;"/>  BAEKJOON
 
 #### [백준 프로필](https://solved.ac/profile/shalpha)
-#### [알고리즘 개념 정리](https://github.com/keartt/TIL/tree/main/CodingTest/Algorithm)
-#### [문제풀이 및 정리](https://github.com/keartt/TIL/tree/main/CodingTest/BAEKJOON)
-
-[//]: # (```)
-[//]: # (├── CodingTest)
-[//]: # (    ├── BAEKJOON)
-[//]: # (	└── Programmers)
-[//]: # (```)
-
+#### [알고리즘 정리](https://github.com/keartt/TIL/tree/main/CodingTest/Algorithm)
+#### [백준푼 문제들](https://github.com/keartt/TIL/tree/main/%EB%B0%B1%EC%A4%80)
 
 [//]: # (> [!NOTE])
 [//]: # (> [!TIP])
@@ -45,3 +42,6 @@
 #### <img src="https://www.svgrepo.com/show/354380/spring-icon.svg" width="20" height="20" style="vertical-align: middle;"/> Spring [👆](https://github.com/keartt/TIL/tree/main/Tech%20Stack/Docker)
 
 #### <img src="https://miro.medium.com/v2/resize:fit:856/1*CIHazLUXhBCxiho2mE2glQ.png" width="20" height="20" style="vertical-align: middle;"/> SpringBoot [👆](https://github.com/keartt/TIL/tree/main/Tech%20Stack/SpringBoot)
+
+---
+
