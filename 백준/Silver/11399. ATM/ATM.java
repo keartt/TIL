@@ -1,4 +1,5 @@
 import java.io.*;
+import java.time.Period;
 import java.util.*;
 
 public class Main {
@@ -16,7 +17,8 @@ public class Main {
         }
         Arrays.sort(arr);
 
-        // 2. 누적합을 구한다.
+
+        /* 2-1 . 구간합 이용
         int[] S = new int[N];
         S[0] = arr[0];
         for (int i = 1; i < N; i++) {
@@ -27,7 +29,17 @@ public class Main {
         for (int i : S) {
             result += i;
         }
-        bw.write(result + "\n");
+        */
+
+        // 2. 누적합을 구하고 더한다
+        int prev = 0;
+        int sum = 0;
+        for (int i = 0; i < N; i++) {
+            prev += arr[i];
+            sum += prev;
+        }
+        bw.write(sum +"\n" );
+
 
         bw.flush();
         bw.close();
