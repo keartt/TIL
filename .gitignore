@@ -1,8 +1,5 @@
 .idea/
 .obsidian/
-Algorithm/BAEKJOON/Main.java
-Algorithm/BAEKJOON/연습장.md
-
 .DS_Store
 .obsidian/workspace.json
 # Logs
@@ -135,3 +132,4 @@ dist
 .yarn/build-state.yml
 .yarn/install-state.gz
 .pnp.*
+/Main.java
