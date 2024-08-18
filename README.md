@@ -1,18 +1,13 @@
-# TIL (Today I Learn) - to Write
+# TIL (Today I Learn) 
 > [!IMPORTANT]
 > ### 정리하고 기억하기
->
-<a href="https://keartt.tistory.com/" target="_empty">
-        <img src="https://img.shields.io/badge/myblog-c059ae?style=flat-square&logo=Tistory&logoColor=white"/>
-    </a>
-<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fkeartt&count_bg=%23C2B8B8&title_bg=%23D62DD7&icon=&icon_color=%23E7E7E7&title=Hi+there&edge_flat=false"/></a>
 
+##  BOJ
 
-## <img src="https://d2gd6pc034wcta.cloudfront.net/tier/9.svg" width="20" height="20" style="vertical-align: middle;"/>  BAEKJOON
+<a href="https://solved.ac/shalpha/">
+    <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=shalpha" alt="Solved.ac Profile" width="25%" >
+</a>
 
-#### [백준 프로필](https://solved.ac/profile/shalpha)
-#### [알고리즘 정리](https://github.com/keartt/TIL/tree/main/CodingTest/Algorithm)
-#### [백준푼 문제들](https://github.com/keartt/TIL/tree/main/%EB%B0%B1%EC%A4%80)
 
 [//]: # (> [!NOTE])
 [//]: # (> [!TIP])
@@ -25,7 +20,7 @@
 
 ## ⚙  Tech Stack
 > [!NOTE]
-> 개념과 코드 공부한 내용들 md 파일로 정리
+> 개념과 코드 공부한 내용들 md 파일로 정리합니다
 
 #### <img src="https://static-00.iconduck.com/assets.00/docker-icon-512x438-ga1hb37h.png" width="20" height="20" style="vertical-align: middle;"/> Docker [👆](https://github.com/keartt/TIL/tree/main/Tech%20Stack/Docker)
 
